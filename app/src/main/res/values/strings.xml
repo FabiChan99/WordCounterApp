@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="word_count">Word Count: %1$d</string>
+    <string name="start_listening">Start Listening</string>
+    <string name="stop_listening">Stop Listening</string>
+</resources>
